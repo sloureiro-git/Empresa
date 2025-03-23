@@ -1,5 +1,6 @@
 ﻿namespace Entidades
 {
+    // hola
     public class Jornalero : Empleado
     {
         public string Especialidad { get; set; }
